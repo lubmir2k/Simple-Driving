@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637632340521951903
-    m_Hash: 2585501307
+      ticks: 637634199383450601
+    m_Hash: 1814371481
   m_LockFileStatus:
     m_FilePath: C:/Users/lubom/Documents/Unity Projects/Simple-Driving/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637632340524959462
-    m_Hash: 4070527999
+      ticks: 637634199383620149
+    m_Hash: 606267546
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -711,6 +711,124 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/InputSystem.git
         revision: 041def76515febb36a83d1f928cfb7aefb85176c
+        path: 
+    - packageId: com.unity.mobile.notifications@1.3.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.3.2
+      source: 1
+      resolvedPath: C:\Users\lubom\Documents\Unity Projects\Simple-Driving\Library\PackageCache\com.unity.mobile.notifications@1.3.2
+      assetPath: Packages/com.unity.mobile.notifications
+      name: com.unity.mobile.notifications
+      displayName: Mobile Notifications
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Mobile Notifications package adds support for scheduling local
+        repeatable or one-time notifications on iOS and Android.
+
+
+        Requires
+        iOS 10 and Android 4.4 or above.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.7
+        - 1.0.0-preview.8
+        - 1.0.0-preview.9
+        - 1.0.0-preview.10
+        - 1.0.0-preview.13
+        - 1.0.0-preview.17
+        - 1.0.0-preview.21
+        - 1.0.0-preview.23
+        - 1.0.2
+        - 1.0.3-preview
+        - 1.0.3-preview.3
+        - 1.0.3-preview.4
+        - 1.0.3-preview.5
+        - 1.0.3-preview.6
+        - 1.0.3
+        - 1.0.4-preview.1
+        - 1.0.4-preview.2
+        - 1.0.4-preview.3
+        - 1.0.4-preview.4
+        - 1.0.4-preview.5
+        - 1.0.4-preview.6
+        - 1.0.4-preview.9
+        - 1.1.0-preview
+        - 1.2.0-preview
+        - 1.2.1-preview
+        - 1.3.0
+        - 1.3.2
+        - 1.4.1
+        compatible:
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.7
+        - 1.0.0-preview.8
+        - 1.0.0-preview.9
+        - 1.0.0-preview.10
+        - 1.0.0-preview.13
+        - 1.0.0-preview.17
+        - 1.0.0-preview.21
+        - 1.0.0-preview.23
+        - 1.0.2
+        - 1.0.3-preview
+        - 1.0.3-preview.3
+        - 1.0.3-preview.4
+        - 1.0.3-preview.5
+        - 1.0.3-preview.6
+        - 1.0.3
+        - 1.0.4-preview.1
+        - 1.0.4-preview.2
+        - 1.0.4-preview.3
+        - 1.0.4-preview.4
+        - 1.0.4-preview.5
+        - 1.0.4-preview.6
+        - 1.0.4-preview.9
+        - 1.1.0-preview
+        - 1.2.0-preview
+        - 1.2.1-preview
+        - 1.3.0
+        - 1.3.2
+        - 1.4.1
+        verified: 1.3.2
+      dependencies:
+      - name: com.unity.modules.androidjni
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.androidjni
+        version: 1.0.0
+      keywords:
+      - Android
+      - iOS
+      - Notifications
+      - Mobile
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637411581370000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.mobile.notifications.git
+        revision: 2829196ea1779d64c68c36b0a95a19d3945889fd
         path: 
     - packageId: com.unity.test-framework@1.1.26
       testable: 0
